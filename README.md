@@ -1,14 +1,20 @@
 # 🚀 Waqas Ijaz – React & Next.js Architect
 
+![Waqas Ijaz Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&width=435&lines=React.js+Engineer;Next.js+Specialist;Frontend+Architect;API+Integration+Ninja)
+
+---
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&width=435&lines=React.js+Engineer;Next.js+Specialist;Frontend+Architect;API+Integration+Ninja"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=waqasijaz&show_icons=true&theme=radical" alt="Waqas Ijaz's GitHub stats" style="margin-right: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waqasijaz&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqasijaz&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ---
 
 ### 🧠 Who Am I?
 
-I'm **Waqas Ijaz**, a code-breathing, pixel-perfecting, ultra-optimized React.js & Next.js engineer based in Lahore, Pakistan. I build **blazing-fast**, **SEO-enhanced**, **scalable** web ecosystems—crafted with an engineer’s logic and a designer’s soul. Whether it’s server-side rendering, API orchestration, or crafting dev tools from scratch—I dive deep into the tech ocean and bring up gold.
+I'm **Waqas Ijaz**, a code-breathing, pixel-perfecting, ultra-optimized React.js & Next.js engineer based in Lahore, Pakistan. I build **blazing-fast**, **SEO-enhanced**, **scalable** web ecosystems that delight users and supercharge businesses.
 
 ---
 
@@ -67,9 +73,23 @@ I'm **Waqas Ijaz**, a code-breathing, pixel-perfecting, ultra-optimized React.js
 ### 🎓 Academic Credentials
 
 **MSc Computer Science**  
-*Islamia University, Bahawalpur, Pakistan*
+*Islamia University, Bahawalpur, Pakistan*  
 - Graduated with brain circuits still overheating from algorithms and code complexity.
 - Specialized in next-gen web technologies and backend systems.
+
+---
+
+### 🌍 Community Involvement
+
+- Contributor to [React](https://github.com/facebook/react) and [Next.js](https://github.com/vercel/next.js)
+- Mentor at local coding bootcamps in Lahore
+
+---
+
+### 🤹 Fun Facts
+
+- I can solve a Rubik’s cube in under 2 minutes.
+- Coffee enthusiast ☕ & cricket lover 🏏.
 
 ---
 
